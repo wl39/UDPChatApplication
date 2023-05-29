@@ -1,6 +1,5 @@
 # UDPChatApplication
 - 사용 언어: Java
-- Github link: 
 - User Datagram Protocol을 이용한 채팅 프로그램입니다.
 - 해당 프로그램은 실행 불가능합니다.
 - 개발기간: 14일
